@@ -5,8 +5,8 @@
 
 ### Используемые технологии
 
-**Reactjs  
-**Scss
+*Reactjs  
+*Scss
 
 ### `npm start`
 
