@@ -1,19 +1,19 @@
 # Личный сайт
 
-Сайт, где есть насколько разднлов.  
+Сайт, где есть насколько разделов.  
 Портфолио,отзывы, контакты.
 
-## Сайт сделан с использованием Reactjs
+### Используемые технологии
 
-In the project directory, you can run:
+**Reactjs  
+**Scss
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
 
 
 
