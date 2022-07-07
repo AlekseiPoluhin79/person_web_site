@@ -8,7 +8,7 @@
 ### Используемые технологии
 
 **ReactJS**  
-**React Hooks**
+**React Hooks**  
 **Scss****
 
 
